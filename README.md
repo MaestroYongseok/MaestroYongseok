@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 Hi Everyone 
+### Name : Yong-Seok
 
+- I'm a programmer with a degree in conducting.
+- I'm not a good enough programmer yet.
+- I'm trying to become more knowledgeable. 
+- Any advice would be much appreciated.
 <!--
 **MaestroYongseok/MaestroYongseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
